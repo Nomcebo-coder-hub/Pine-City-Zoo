@@ -123,3 +123,9 @@ a.info-box {
   width: 90%;
   color: #131313;
 }
+
+.info-box img.right {
+  float: right;
+  margin-top: 25px;
+  height: 40px;
+}
