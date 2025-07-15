@@ -91,7 +91,7 @@ body {
   padding-bottom: 50px;
 }
 
-/*====== Main =======*/
+/*====== Info Box =======*/
 
 a.info-box {
   text-decoration: none;
@@ -128,4 +128,23 @@ a.info-box {
   float: right;
   margin-top: 25px;
   height: 40px;
+}
+
+/*====== Info Box Full =======*/
+
+#info-box-full {
+  background: rgba(255, 255, 255, 0.8);
+  width: 90%;
+  display: block;
+  margin: auto;
+  margin-top: 12px;
+  padding: 10px;
+}
+
+#info-box-full img {
+  width: 100%;
+}
+
+#info-box-full h3 {
+  text-align: center;
 }
