@@ -109,3 +109,10 @@ a.info-box {
   margin: 10px;
   float: left;
 }
+
+.info-box h3 {
+  padding: 0;
+  margin-bottom: 0;
+  width: 90%;
+  color: #572800;
+}
