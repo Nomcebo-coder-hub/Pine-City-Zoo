@@ -90,3 +90,16 @@ body {
   padding-top: 1px;
   padding-bottom: 50px;
 }
+
+/*====== Main =======*/
+
+a.info-box {
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.8);
+  width: 90%;
+  height: 90px;
+  display: block;
+  margin: auto;
+  margin-top: 12px;
+  padding: 1px;
+}
