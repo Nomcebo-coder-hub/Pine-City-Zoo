@@ -116,3 +116,10 @@ a.info-box {
   width: 90%;
   color: #572800;
 }
+
+.info-box p {
+  padding: 0;
+  margin-bottom: 0;
+  width: 90%;
+  color: #131313;
+}
